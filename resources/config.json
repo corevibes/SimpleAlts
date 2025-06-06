@@ -1,0 +1,13 @@
+{
+    "mysql": {
+        "enabled": false,
+        "host": "localhost",
+        "port": 3306,
+        "database": "simplealts",
+        "user": "root",
+        "password": ""
+    },
+    "alts-limit": 3,
+    "block-overlimit": true,
+    "kick-message": "You have too many alts connected to this server. Please disconnect some before joining again."
+}
