@@ -1,0 +1,14 @@
+name: SimpleAlts
+author: corevibess
+
+api: 5.28.2
+version: v0.1
+
+website: https://github.com/corevibess/SimpleAlts/
+main: SimpleAlts\SimpleAlts
+description: A simple plugin to manage alts.
+
+permissions:
+  simplealts.cmdalts:
+    description: Allows the user to manage alts.
+    default: op
